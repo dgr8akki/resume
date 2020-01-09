@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - 10
+sudo: true
+install:
+- npm install
+script:
+- npm run build
+- npm run deploy
+env:
+  global:
+    secure: cXkc0a67xY0kZOqXphMVC0VNj+oUlGzgH/MO7oGZ2eK69oXAqlhmyyL/cbw/uyTrIWSqUbd9NTPl07oJbtUO0wwdFyzdpualycqm99F0dYsgMmhixCsZfJjbGNg3QVD6LxfN4CE2cA0BudONv/dD2rfqZ61m3/+XrrDNiKxjc1NNBLQM1ZWub31Xru9He7A4i/wJHJhYGs1tO+U/c/QobUOWI+uwCME5+MWHFT5LHVp5EXj1n7CMlWpZtywGlNKmMsclZSQKL4Wp4B9xwQ17NtmDNtRElGP9PRxYUh6jhyN7CpwUJml3RK3DNthJvDuvbOYbdl6QLSIyDTsuYCO+yP9VIcnIvlaMqdFo/OA5MXXks0qASek+nRmg7ih6v6uIBQl7hkXSTg7Fl2Ng1b2n0IGUyJAj7VQZBIQRQynfR4zreedzV6RItCHfVmUi+1i8t95YGdaGpJEDXWcSD8xe6jfkXiH7ScASdUmyQNycSzFuqo/OgFJOH/6x6jLay5dHhX9fQ+BN792aSHnBskKxCNXm2YfvLxoHGoO8sIjCZzQTCdxI6j0rSuNZmruCyhr9PyaLnEjVPaNl7uTgmgG5f+UGW1m+j6eyNhYpCtruPDcsB5D/QjxscH/YhxK9NgVZlGMfr9vFVI0p3pDjItbziDACzKe7X8OWt0AROQ2F0z0=
