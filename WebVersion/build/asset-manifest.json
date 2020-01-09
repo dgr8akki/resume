@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fee5576a.chunk.css",
+    "main.js": "/static/js/main.421f442a.chunk.js",
+    "main.js.map": "/static/js/main.421f442a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97b71ff3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97b71ff3.js.map",
+    "static/css/2.90ec2976.chunk.css": "/static/css/2.90ec2976.chunk.css",
+    "static/js/2.4d09cc7c.chunk.js": "/static/js/2.4d09cc7c.chunk.js",
+    "static/js/2.4d09cc7c.chunk.js.map": "/static/js/2.4d09cc7c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c34670b9ebdb4f9366fdccc9d8defa4.js": "/precache-manifest.9c34670b9ebdb4f9366fdccc9d8defa4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.90ec2976.chunk.css.map": "/static/css/2.90ec2976.chunk.css.map",
+    "static/css/main.fee5576a.chunk.css.map": "/static/css/main.fee5576a.chunk.css.map",
+    "static/js/2.4d09cc7c.chunk.js.LICENSE": "/static/js/2.4d09cc7c.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b71ff3.js",
+    "static/css/2.90ec2976.chunk.css",
+    "static/js/2.4d09cc7c.chunk.js",
+    "static/css/main.fee5576a.chunk.css",
+    "static/js/main.421f442a.chunk.js"
+  ]
+}

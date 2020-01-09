@@ -1,0 +1,42 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://dgr8akki.github.io/resume",
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "node-sass": "^4.12.0",
+    "prop-types": "latest",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.3.0",
+    "typeface-open-sans": "0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "eslint": "eslint --debug ./src",
+    "eslint:fix": "eslint --fix ./src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "prettier-eslint": "^8.8.2"
+  }
+}

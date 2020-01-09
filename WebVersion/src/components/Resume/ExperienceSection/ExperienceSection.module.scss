@@ -1,0 +1,40 @@
+@import "../../../assets/styles/index";
+
+.universityDetails {
+  font-weight: bold;
+  font-size: 12px;
+  display: inline-block;
+  width: 100%;
+
+  .city {
+    width: 30%;
+    float: left;
+    text-align: left;
+  }
+
+  .duration {
+    width: 30%;
+    float: left;
+    text-align: right;
+  }
+
+  .school {
+    width: 40%;
+    float: left;
+    text-align: center;
+  }
+}
+
+.rolesHeading {
+  font-size: 11px;
+}
+
+.otherInfoList {
+  font-size: 11px;
+  margin: 0 0 5px;
+}
+
+.desc {
+  font-size: 12px;
+  list-style-type: circle
+}
